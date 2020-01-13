@@ -1,11 +1,11 @@
 # Personal-Portfolio
-Your Project's Name
-One or two paragraphs providing an overview of your project.
+#### The project is to create a personal portfolio. The reason i have build this personal portfolio is that portfolio provides potential employers with a complete picture of a job candidate's abilities. and i will keep upgrading this when i learn new technologies.
+#### I have created a 4 page portfolio which includes my educations and job experiences.
 
-Essentially, this part is your sales pitch.
 
-UX
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+---
+> The idea of creating such a portfolio is to show my proficiency and capabilities. It is very important for employers to see our capabilities rather than saying it. I will keep upgrading this portfolio and save it as an experience.
+
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 
