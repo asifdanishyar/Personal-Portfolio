@@ -1,66 +1,49 @@
 # Personal-Portfolio
-#### The project is to create a personal portfolio. The reason i have build this personal portfolio is that portfolio provides potential employers with a complete picture of a job candidate's abilities. and i will keep upgrading this when i learn new technologies.
-#### I have created a 4 page portfolio which includes my educations and job experiences.
+> The project is to create a personal portfolio. It provides more clear information for employers with a complete picture of a job candidate's abilities. This portfolio will be updated as we go further to the next coming sessions.
 
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Credits](#Credits)
+* [Features](#features)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
 
----
-> The idea of creating such a portfolio is to show my proficiency and capabilities. It is very important for employers to see our capabilities rather than saying it. I will keep upgrading this portfolio and save it as an experience.
+## General info
+This project is build with four pages. Each page has a differnet information but we cann access all four pages from the same page.
+it is consist of **MAIN** page which is more general information about me. then there is resume menu which says about my education background and job experiences.
+then it is **CONTACT** menu which open a form and people can contact me and write something. this part requires java and php so it is just designed for now but this part will be completed when i cover the java sections.
+then there is **DOWNLOADCV** menu that we can download the pdf version of the cv if we want.
 
+## Screenshots
+![Example screenshot](assets/screenshots/q1.jpg)
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+## Technologies
+* HTML
+* CSS
+* Bootstrap
+* Fontawesome
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+## Credits
+I have got great support from mentor and slacks. some parts of the coding is taken from github and reused according to my needs. All in all, this triangle was very helpful to implement this project.
 
-Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+## Features
+List of features ready and TODOs for future development
+* Showing all necessary information about me.
+* Links to each pages works fine.
+* It works for all different devices and browesers.
 
-Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+To-do list for future:
+* Link the contact page with my email
+* Create more features in all parts of the project.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+## Status
+Project is: in progress because at the end of the course i would like to have a super professional portfolio. 
 
-Features Left to Implement
-Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+## Inspiration
+basically my friend inspired me to create a personal portfolio and i shared this idea with my mentor, he was also very much positive and that is why i started this project.
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
-Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
-Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
+## Contact
+Created by: Asif Danishyar [My Linkdin](https://www.linkedin.com/in/asif-danishyar-6026a7177//) - feel free to contact me!
