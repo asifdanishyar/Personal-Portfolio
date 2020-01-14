@@ -41,6 +41,11 @@
 .ui-menu-color-download {
     background-color: #525252;
 }
+.footer-color{
+     background-position: center;
+     background-color: rgb(70, 69, 69);
+     color: black;
+}
 
 .row-table {
     display: table;
@@ -112,10 +117,10 @@ header {
 
 .logo {
     background: url("../images/profilepic.jpg");
-    background-position: center;
+   background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 340px;
+    min-height: 360px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
