@@ -18,7 +18,9 @@ then it is **CONTACT** menu which open a form and people can contact me and writ
 then there is **DOWNLOADCV** menu that we can download the pdf version of the cv if we want.
 
 ## Screenshots
-![Example screenshot](assets/screenshots/q1.jpg)
+![Example screenshot](https://github.com/asifdanishyar/Personal-Portfolio/blob/master/assets/screenshots/q1.JPG?raw=true)
+![](https://github.com/asifdanishyar/Personal-Portfolio/blob/master/assets/screenshots/q2.JPG?raw=true)
+
 
 ## Technologies
 * HTML
