@@ -1,5 +1,5 @@
 # Personal-Portfolio
-> The project is to create a personal portfolio. It provides more clear information for employers with a complete picture of a job candidate's abilities. This portfolio will be updated as we go further to the next coming sessions.
+ The project is to create a personal portfolio. It provides more clear information for employers with a complete picture of a job candidate's abilities. This portfolio will be updated as we go further to the next coming sessions.
 
 ## Table of contents
 * [General info](#general-info)
