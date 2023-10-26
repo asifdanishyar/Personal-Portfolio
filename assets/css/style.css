@@ -119,7 +119,7 @@ header {
     background: url("../images/profilepic.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 40 40;
     min-height: 360 px;
     margin-top: 50 px;
     transition: all 0.5s ease-in-out;
