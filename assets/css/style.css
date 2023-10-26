@@ -116,12 +116,12 @@ header {
 }
 
 .logo {
-    margin-top: 50px;
     background: url("../images/profilepic.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 360 px;
+    margin-top: 50 px;
     transition: all 0.5s ease-in-out;
     -moz-transition: all 0.5s ease-in-out;
     -webkit-transition: all 0.5s ease-in-out;
